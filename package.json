@@ -3,12 +3,15 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "dependencies": {
+    "playwright-core": "^1.38.1"
+  },
   "devDependencies": {
     "@playwright/test": "^1.38.1",
     "@types/node": "^20.8.3"
-  }
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
